@@ -8,10 +8,6 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'Education', icon: <HomeIcon />, },
-  { name: 'Class 9-10', icon: <SchoolIcon />, },
-  { name: 'Class 11-12', icon: <SchoolIcon />, },
-  { name: 'Comp Science', icon: <CodeIcon /> },
-  { name: 'Physics', icon: <SchoolIcon />, },
   { name: 'Chemistry', icon: <SchoolIcon />, },
   { name: 'Mathematics', icon: <SchoolIcon />, },
   { name: 'JEE', icon: <SchoolIcon />, },
@@ -20,7 +16,7 @@ export const categories = [
   { name: 'Web Dev', icon: <SchoolIcon />, },
   { name: 'Blockchain', icon: <DeveloperModeIcon />, },
   { name: 'Data Science', icon: <OndemandVideoIcon />, },
-  { name: 'Cloud Computing', icon: <DeveloperModeIcon />, },
+
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
